@@ -32,47 +32,6 @@
 
 ---
 
-## 🚀 Highlight Projects
-
-### 🎨 [StyleCraft](https://github.com/Sharmilecholan)
-A web platform connecting 100+ customers with 50+ tailors  
-🧵 Boosted small businesses by 40%  
-💻 Tech: HTML, CSS, JS, Python, Flask, MySQL
-
----
-
-### 💰 Loan Buddy  
-A loan comparison platform connecting users with 50+ banks  
-🧮 Includes EMI calculator  
-💻 Tech: JavaScript, HTML, CSS
-
----
-
-### 🗂️ Student Management System  
-Backend-driven system to manage 500+ student records and 100+ courses  
-💻 Tech: Flask, MySQL, HTML, CSS
-
----
-
-## 🏆 Achievements
-
-- 🥇 Winner – HackHerthon 2.0 (₹15,000 Prize)
-- 🧪 Finalist – HACKIT, I Cube 3.0, Google Hack4Change
-- 🎤 Hosted Google’s DevFest ’24 for 800+ developers
-- 🛰️ Presented paper: *Lunar Crater Detection using AI/ML*
-- 🎓 Reliance Foundation Scholar – 2024
-
----
-
-## 🧑‍💼 Experience & Leadership
-
-- 💻 Full Stack Developer Intern – Cognex Technologies (2025)
-- 🚀 Startup Intern – EPIC SVCE (2024)
-- 🤝 Joint Secretary – ACE Club, SVCE
-- 📱 App Dev Member – GDSC SVCE
-- 🎙️ Executive – FODSE SVCE
-
----
 
 ## 📊 GitHub Stats
 
