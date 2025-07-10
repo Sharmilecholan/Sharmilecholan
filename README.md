@@ -97,6 +97,5 @@ Backend-driven system to manage 500+ student records and 100+ courses
 
 ---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Sharmilecholan.Sharmilecholan)
 
 > *“Code with purpose. Build with passion.”* 💙
