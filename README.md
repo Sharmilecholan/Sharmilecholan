@@ -83,12 +83,6 @@ Backend-driven system to manage 500+ student records and 100+ courses
 
 ---
 
-## 📈 Contribution Activity
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sharmilecholan&bg_color=0d1117&color=ffffff&line=5bcdec&point=f7a5ff&area=true&hide_border=true)](https://github.com/Sharmilecholan)
-
----
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/s-sharmile)  
